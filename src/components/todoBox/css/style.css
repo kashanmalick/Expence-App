@@ -1,0 +1,9 @@
+
+
+.amount_Val{
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
